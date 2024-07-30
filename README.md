@@ -1,6 +1,5 @@
 # Sidebar Menu - Dark/Light Mode
 
-![TECompany instagram](https://www.instagram.com/tecompany_dev/)
 
 ## Sobre
 
@@ -21,6 +20,5 @@ O **Sidebar Menu - Dark/Light Mode** é um componente de interface desenvolvido 
 
 ## Instalação
 
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/TECompany/sidebar-menu.git
+cd sidebar-menu
+
