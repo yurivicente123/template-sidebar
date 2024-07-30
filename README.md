@@ -18,7 +18,7 @@ O **Sidebar Menu - Dark/Light Mode** é um componente de interface desenvolvido 
 - CSS
 - JavaScript
 
-## Instalação
 
-cd sidebar-menu
+
+
 
