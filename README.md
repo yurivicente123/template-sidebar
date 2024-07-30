@@ -1,6 +1,6 @@
 # Sidebar Menu - Dark/Light Mode
 
-![TECompany Logo](link-to-logo.png)
+![TECompany instagram](https://www.instagram.com/tecompany_dev/)
 
 ## Sobre
 
