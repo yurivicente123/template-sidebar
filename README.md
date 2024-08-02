@@ -20,7 +20,6 @@ O **Sidebar Menu - Dark/Light Mode** é um componente de interface desenvolvido 
 
 
 ## Sidebar
-file:///C:/Users/Jo%C3%A3o%20Oliveira/Desktop/projetos%20git/Sidebar%20Menu%20-%20Dark%20Light%20Mode/index.html
-
+<a href="file:///C:/Users/Jo%C3%A3o%20Oliveira/Desktop/projetos%20git/Sidebar%20Menu%20-%20Dark%20Light%20Mode/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 
 
